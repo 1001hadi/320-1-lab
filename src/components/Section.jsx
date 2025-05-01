@@ -21,8 +21,7 @@ const Section = () => {
           suscipit accusantium excepturi tenetur velit dolor, quos iste. Tempore
           adipisci excepturi explicabo, id maiores minima voluptate?
         </p>
-        <h3>Continues...</h3>
-        <hr />
+        <p className="continue">Continues...</p>
       </div>
       <div className="section">
         <h2>11/12/20</h2>
@@ -41,7 +40,7 @@ const Section = () => {
           suscipit accusantium excepturi tenetur velit dolor, quos iste. Tempore
           adipisci excepturi explicabo, id maiores minima voluptate?
         </p>
-        <h3>Continues...</h3>
+        <p className="continue">Continues...</p>
         <hr />
       </div>
     </div>
