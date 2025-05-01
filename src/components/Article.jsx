@@ -1,3 +1,7 @@
 export const Article = () => {
-  return <h2>Article</h2>;
+  return (
+    <div className="main-sec">
+      <h1>main</h1>
+    </div>
+  );
 };
