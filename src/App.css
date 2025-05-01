@@ -57,6 +57,12 @@
 .section img {
   width: 100%;
 }
+strong {
+  font-size: 2rem;
+}
+.section p {
+  line-height: 1.8;
+}
 
 footer {
   padding: 20px 0;
